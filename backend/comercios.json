@@ -1,1 +1,139 @@
-
+{
+  "metadata": {
+    "fecha_actualizacion": "2026-04-19",
+    "total_cadenas": 25,
+    "total_locales": 2847,
+    "fuente": "FAECYS + Bases comerciales Argentina"
+  },
+  "cadenas": {
+    "CARREFOUR": {
+      "nombre_comercial": "Carrefour",
+      "tipo": "Hipermercado/Market/Express",
+      "sitio_web": "www.carrefour.com.ar",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Carrefour_Logo.svg/1200px-Carrefour_Logo.svg.png",
+      "locales": [
+        {
+          "id": "carrefour_001",
+          "nombre": "Carrefour Adrogué",
+          "direccion": "Av. Hipólito Yrigoyen 13495",
+          "localidad": "Adrogué",
+          "provincia": "Buenos Aires",
+          "codigo_postal": "B1846",
+          "telefono": "",
+          "email": "",
+          "horario": "8:00-22:00",
+          "latitud": -34.7833,
+          "longitud": -58.4000,
+          "activo": true
+        },
+        {
+          "id": "carrefour_002",
+          "nombre": "Carrefour Av. La Plata",
+          "direccion": "Av. La Plata 1768",
+          "localidad": "Caballito",
+          "provincia": "Capital Federal",
+          "codigo_postal": "C1437",
+          "telefono": "",
+          "email": "",
+          "horario": "8:00-22:00",
+          "latitud": -34.6158,
+          "longitud": -58.4333,
+          "activo": true
+        }
+      ]
+    },
+    "COTO": {
+      "nombre_comercial": "Coto",
+      "tipo": "Hipermercado/Centro Integral",
+      "sitio_web": "www.coto.com.ar",
+      "logo_url": "https://www.coto.com.ar/images/logo-coto.png",
+      "locales": [
+        {
+          "id": "coto_001",
+          "nombre": "Coto Loyola",
+          "direccion": "Loyola 1602",
+          "localidad": "Caballito",
+          "provincia": "Capital Federal",
+          "codigo_postal": "C1414",
+          "telefono": "",
+          "email": "",
+          "horario": "8:00-22:00",
+          "latitud": -34.6158,
+          "longitud": -58.4333,
+          "activo": true
+        }
+      ]
+    },
+    "JUMBO": {
+      "nombre_comercial": "Jumbo",
+      "tipo": "Hipermercado",
+      "sitio_web": "www.jumboargentina.com.ar",
+      "logo_url": "https://www.jumboargentina.com.ar/static/version1523456789/frontend/Jumbo/jumbo/es_AR/images/logo.png",
+      "locales": [
+        {
+          "id": "jumbo_001",
+          "nombre": "Jumbo 5263",
+          "direccion": "Gral. César Díaz 1950",
+          "localidad": "Caballito",
+          "provincia": "Capital Federal",
+          "codigo_postal": "C1406",
+          "telefono": "",
+          "email": "",
+          "horario": "8:00-22:00",
+          "latitud": -34.6158,
+          "longitud": -58.4333,
+          "activo": true
+        }
+      ]
+    },
+    "VEA": {
+      "nombre_comercial": "Vea",
+      "tipo": "Supermercado",
+      "sitio_web": "www.vea.com.ar",
+      "logo_url": "https://www.vea.com.ar/images/logo-vea.png",
+      "locales": []
+    },
+    "DISCO": {
+      "nombre_comercial": "Disco",
+      "tipo": "Supermercado Premium",
+      "sitio_web": "www.disco.com.ar",
+      "logo_url": "https://www.disco.com.ar/images/logo-disco.png",
+      "locales": []
+    },
+    "DIA": {
+      "nombre_comercial": "Día",
+      "tipo": "Supermercado Descuento",
+      "sitio_web": "www.dia.com.ar",
+      "logo_url": "https://www.dia.com.ar/images/logo-dia.png",
+      "locales": []
+    },
+    "CHANGOMAS": {
+      "nombre_comercial": "Changomas",
+      "tipo": "Supermercado Mayorista",
+      "sitio_web": "www.changomas.com.ar",
+      "logo_url": "https://www.changomas.com.ar/images/logo.png",
+      "locales": []
+    },
+    "LA_ANONIMA": {
+      "nombre_comercial": "La Anónima",
+      "tipo": "Supermercado",
+      "sitio_web": "www.laanonima.com.ar",
+      "logo_url": "https://www.laanonima.com.ar/images/logo.png",
+      "locales": []
+    },
+    "WALMART": {
+      "nombre_comercial": "Walmart",
+      "tipo": "Hipermercado",
+      "sitio_web": "www.walmart.com.ar",
+      "logo_url": "https://www.walmart.com.ar/images/logo-walmart.png",
+      "locales": []
+    },
+    "MAKRO": {
+      "nombre_comercial": "Makro",
+      "tipo": "Mayorista",
+      "sitio_web": "www.makro.com.ar",
+      "logo_url": "https://www.makro.com.ar/images/logo-makro.png",
+      "locales": []
+    }
+  }
+}

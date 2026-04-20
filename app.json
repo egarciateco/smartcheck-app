@@ -4,11 +4,12 @@
     "slug": "smartcheck-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/logo.png",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/logo.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#001f3f"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -18,17 +19,24 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.smartcheck.supermercados"
+      "bundleIdentifier": "com.egarcia.smartcheck"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/logo.png",
-        "backgroundColor": "#001f3f"
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
       },
-      "package": "com.smartcheck.supermercados"
+      "package": "com.egarcia.smartcheck",
+      "versionCode": 1
     },
     "web": {
-      "favicon": "./assets/logo.png"
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "apiUrl": "https://smartcheck-api.onrender.com",
+      "eas": {
+        "projectId": "212b256b-ce74-4da4-9b5a-5ad2dc0f4600"
+      }
     }
   }
 }
